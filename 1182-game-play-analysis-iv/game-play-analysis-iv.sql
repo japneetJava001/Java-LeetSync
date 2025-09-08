@@ -9,5 +9,4 @@ WHERE (player_id, DATE_SUB(event_date, INTERVAL 1 DAY)) IN (
         MIN(event_date)
     FROM  Activity
     GROUP BY player_id
-)
--- GROUP BY player_id, device_id;
+);
