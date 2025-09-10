@@ -20,4 +20,4 @@ SELECT
     "High Salary" AS category,
     COUNT(account_id) AS accounts_count
 FROM Accounts
-WHERE income > 50000
+WHERE income > 50000;
