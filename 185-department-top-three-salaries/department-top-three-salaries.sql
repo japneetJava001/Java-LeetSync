@@ -15,4 +15,4 @@ SELECT
     Employee,
     Salary
 FROM ranked_salary
-WHERE Salary_Rank <= 3
+WHERE Salary_Rank <= 3;
