@@ -17,8 +17,6 @@ Welcome! This repository contains my personal solutions to the **LeetCode SQL 50
 - Aggregations
 - Date & String functions
 
-![Progress](https://img.shields.io/badge/Progress-10%2F50-brightgreen)
-
 ---
 
 ## 🗂️ File Structure
@@ -79,51 +77,51 @@ You can find the LeetCode SQL 50 list here:
 | 3   | Big Countries                                                           | ✅     |
 | 4   | Article Views I                                                         | ✅     |
 | 5   | Invalid Tweets                                                          | ✅     |
-| 6   | Replace Employee ID With The Unique Identifier                          | ❌     |
-| 7   | Product Sales Analysis I                                                | ❌     |
-| 8   | Customer Who Visited but Did Not Make Any Transactions                  | ❌     |
-| 9   | Rising Temperature                                                      | ❌     |
-| 10  | Average Time of Process per Machine                                     | ❌     |
-| 11  | Employee Bonus                                                          | ❌     |
-| 12  | Students and Examinations                                               | ❌     |
-| 13  | Managers with at Least 5 Direct Reports                                 | ❌     |
-| 14  | Confirmation Rate                                                       | ❌     |
+| 6   | Replace Employee ID With The Unique Identifier                          | ✅     |
+| 7   | Product Sales Analysis I                                                | ✅     |
+| 8   | Customer Who Visited but Did Not Make Any Transactions                  | ✅     |
+| 9   | Rising Temperature                                                      | ✅     |
+| 10  | Average Time of Process per Machine                                     | ✅     |
+| 11  | Employee Bonus                                                          | ✅     |
+| 12  | Students and Examinations                                               | ✅     |
+| 13  | Managers with at Least 5 Direct Reports                                 | ✅     |
+| 14  | Confirmation Rate                                                       | ✅     |
 | 15  | Not Boring Movies                                                       | ✅     |
-| 16  | Average Selling Price                                                   | ❌     |
-| 17  | Project Employees I                                                     | ❌     |
+| 16  | Average Selling Price                                                   | ✅     |
+| 17  | Project Employees I                                                     | ✅     |
 | 18  | Percentage of Users Attended a Contest                                  | ✅     |
-| 19  | Queries Quality and Percentage                                          | ❌     |
-| 20  | Monthly Transactions I                                                  | ❌     |
-| 21  | Immediate Food Delivery II                                              | ❌     |
-| 22  | Game Play Analysis IV                                                   | ❌     |
+| 19  | Queries Quality and Percentage                                          | ✅     |
+| 20  | Monthly Transactions I                                                  | ✅     |
+| 21  | Immediate Food Delivery II                                              | ✅     |
+| 22  | Game Play Analysis IV                                                   | ✅     |
 | 23  | Number of Unique Subjects Taught by Each Teacher                        | ✅     |
 | 24  | User Activity for the Past 30 Days I                                    | ✅     |
-| 25  | Product Sales Analysis III                                              | ❌     |
-| 26  | Classes With at Least 5 Students                                        | ❌     |
-| 27  | Find Followers Count                                                    | ❌     |
-| 28  | Biggest Single Number                                                   | ❌     |
-| 29  | Customers Who Bought All Products                                       | ❌     |
-| 30  | The Number of Employees Which Report to Each Employee                   | ❌     |
-| 31  | Primary Department for Each Employee                                    | ❌     |           
-| 32  | Triangle Judgement                                                      | ❌     |
-| 33  | Consecutive Numbers                                                     | ❌     |
-| 34  | Product Price at a Given Date                                           | ❌     |
-| 35  | Last Person to Fit in the Bus                                           | ❌     |
-| 36  | Count Salary Categories                                                 | ❌     |
+| 25  | Product Sales Analysis III                                              | ✅     |
+| 26  | Classes With at Least 5 Students                                        | ✅     |
+| 27  | Find Followers Count                                                    | ✅     |
+| 28  | Biggest Single Number                                                   | ✅     |
+| 29  | Customers Who Bought All Products                                       | ✅     |
+| 30  | The Number of Employees Which Report to Each Employee                   | ✅     |
+| 31  | Primary Department for Each Employee                                    | ✅     |           
+| 32  | Triangle Judgement                                                      | ✅     |
+| 33  | Consecutive Numbers                                                     | ✅     |
+| 34  | Product Price at a Given Date                                           | ✅     |
+| 35  | Last Person to Fit in the Bus                                           | ✅     |
+| 36  | Count Salary Categories                                                 | ✅     |
 | 37  | Employees Whose Manager Left the Company                                | ✅     |
-| 38  | Exchange Seats                                                          | ❌     |
-| 39  | Movie Rating                                                            | ❌     |
-| 40  | Restaurant Growth                                                       | ❌     |
-| 41  | Friend Requests II: Who has the most friends                            | ❌     |
-| 42  | Investments in 2016                                                     | ❌     |
-| 43  | Department Top Three Salaries                                           | ❌     |
-| 44  | Fix Names in a Table                                                    | ❌     |
-| 45  | Patients with a Condition                                               | ❌     |
-| 46  | Delete Duplicate Emails                                                 | ❌     |
-| 47  | Second Highest Salary                                                   | ❌     |
-| 48  | Group Sold Products By Date                                             | ❌     |
-| 49  | List the Products Ordered in a Period                                   | ❌     |
-| 50  | Find Users with Valid Emails                                            | ❌     |
+| 38  | Exchange Seats                                                          | ✅     |
+| 39  | Movie Rating                                                            | ✅     |
+| 40  | Restaurant Growth                                                       | ✅     |
+| 41  | Friend Requests II: Who has the most friends                            | ✅     |
+| 42  | Investments in 2016                                                     | ✅     |
+| 43  | Department Top Three Salaries                                           | ✅     |
+| 44  | Fix Names in a Table                                                    | ✅     |
+| 45  | Patients with a Condition                                               | ✅     |
+| 46  | Delete Duplicate Emails                                                 | ✅     |
+| 47  | Second Highest Salary                                                   | ✅     |
+| 48  | Group Sold Products By Date                                             | ✅     |
+| 49  | List the Products Ordered in a Period                                   | ✅     |
+| 50  | Find Users with Valid Emails                                            | ✅     |
 
 ---
 
